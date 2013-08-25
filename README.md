@@ -4,7 +4,7 @@
 	</head>
 	<body>
 		<h1>
-			<strong>IRC Bot</strong></h1>
+			<strong>Simple IRC Bot</strong></h1>
 		<h3>
 			Description:</h3>
 		<p>
