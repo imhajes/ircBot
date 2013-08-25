@@ -22,7 +22,7 @@
 		<h3>
 			<strong>How to install:</strong></h3>
 		<p>
-			Just download the ircBot.py and run it using python version &lt; 2.7.</p>
+			Download the ircBot.py, change channel and server. Then run it using python version &lt; 2.7.</p>
 		<p>
 			This is cross platform and is tested on Windows 7, Mac OS, and Linux.</p>
 		<p>
